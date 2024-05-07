@@ -19,6 +19,8 @@ This file contain shortcut for md file
 - \~~text~~: Gạch bỏ
 - \--- = \*** = \___ = #: Tạo đường kẻ
 - \` hoặc \```: Code
+- \<sub>text\</sub>: Subscript
+- \<sup>text\</sup>: Superscript
 ---
 ### Tạo bảng
 ```
@@ -35,3 +37,7 @@ This file contain shortcut for md file
 | 3 | Dòng 13 | Dòng 23 |
 | 4 | Dòng 14 | Dòng 24 |
 
+#
+---
+___
+***
