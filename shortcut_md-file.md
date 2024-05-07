@@ -24,7 +24,7 @@ ___
 - \<sup>text\</sup>: Superscript
 - \>quote: Quote
 - \`#ff00ff`: Color
-- [x] #739
+[x] #739
 
 ---
 ### Chỉ mục
