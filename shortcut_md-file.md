@@ -1,6 +1,6 @@
 ### ABSTRACT
 This file contain shortcut for md file
----
+***
 ### Vview output from VSCode
 
 - Ctrl+Shift+V
@@ -37,7 +37,3 @@ This file contain shortcut for md file
 | 3 | Dòng 13 | Dòng 23 |
 | 4 | Dòng 14 | Dòng 24 |
 
-#
----
-___
-***
