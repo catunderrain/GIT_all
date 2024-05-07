@@ -50,14 +50,50 @@ I.Chỉ mục S
         - Chỉ mục D
             - Chỉ mục E
 ---
+### Alerts
+```
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+```
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+---
 ### Tạo bảng
 ```
-| STT | Cột 1 | Cột 2 |
-| :—– | :———- | :————– |
+| STT | Cột 1 | Cột 2   |
+| :—– | :———- | :————–  |
 | 1 | Dòng 11 | Dòng 21 |
 | 2 | Dòng 12 | Dòng 22 |
 | 3 | Dòng 13 | Dòng 23 |
 | 4 | Dòng 14 | Dòng 24 |
 ```
-
-
+| STT | Cột 1   | Cột 2   |
+| --– | -———--- | -———-—– |
+| 1   | Dòng 11 | Dòng 21 |
+| 2   | Dòng 12 | Dòng 22 |
+| 3   | Dòng 13 | Dòng 23 |
+| 4   | Dòng 14 | Dòng 24 |
