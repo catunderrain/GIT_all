@@ -21,6 +21,9 @@ ___
 - \` hoặc \```: Code
 - \<sub>text\</sub>: Subscript
 - \<sup>text\</sup>: Superscript
+- \>quote: Quote
+`#ff00ff`
+
 ---
 ### Tạo bảng
 ```
